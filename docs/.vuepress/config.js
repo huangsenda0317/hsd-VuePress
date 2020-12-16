@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/<REPO>/',
   title: 'Kite hsd的博客',
   description: '专注于记录技术点滴',
   themeConfig: {
