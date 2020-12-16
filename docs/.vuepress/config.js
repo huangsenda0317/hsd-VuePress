@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/<REPO>/',
+  base: '/hsd-VuePress/',
   title: 'Kite hsd的博客',
   description: '专注于记录技术点滴',
   themeConfig: {
@@ -42,7 +42,7 @@ module.exports = {
       locale: 'zh',
       platform: 'github',
       owner: 'Kite hsd',
-      repo: 'vuepress-blog',
+      repo: 'hsd-VuePress',
       clientId: 'e2c6e1286a945e9a232c',
       clientSecret: '6b55f148e3d92989d70b6b3cc6faebdecab6ba6a'
     }
