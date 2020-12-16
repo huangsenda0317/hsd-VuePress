@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zyq190308/vuepress-blog.git"
+    "url": "git+https://github.com/huangsenda0317/hsd-VuePress.git"
   },
   "keywords": [
     "vuepress",
     "vue",
     "blog"
   ],
-  "author": "zyq",
+  "author": "Kite",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zyq190308/vuepress-blog.git/issues"
+    "url": "https://github.com/huangsenda0317/hsd-VuePress.git/issues"
   },
-  "homepage": "https://github.com/zyq190308/zyq190308.github.io",
+  "homepage": "https://github.com/huangsenda0317/huangsenda0317.github.io",
   "devDependencies": {
     "webpack-serve": "^3.0.0-beta.3",
     "@vssue/api-github-v3": "^1.4.4"
