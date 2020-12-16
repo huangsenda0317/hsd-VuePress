@@ -40,7 +40,7 @@ module.exports = {
     '@vssue/vuepress-plugin-vssue': {
       locale: 'zh',
       platform: 'github',
-      owner: 'zyq190308',
+      owner: 'Kite hsd',
       repo: 'vuepress-blog',
       clientId: 'e2c6e1286a945e9a232c',
       clientSecret: '6b55f148e3d92989d70b6b3cc6faebdecab6ba6a'

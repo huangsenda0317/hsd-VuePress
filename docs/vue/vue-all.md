@@ -1,7 +1,5 @@
 # Vue3 全家桶
 
-[代码仓库](https://github.com/zyq190308/Vue3Demo)
-
 因为 vue-router,vuex 官方文档还不齐全,而且会存在版本不兼容问题。
 vue-router4.x 版本在新仓库 vue-router-next,vuex4.x 版本在原有仓库 4.0 分支,然后在 package.json 里面安装最新的版本就不会存在版本问题。
 废话不多说,直接安装:

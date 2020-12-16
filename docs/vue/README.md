@@ -13,9 +13,6 @@ npm init -y # 初始化package.json
 npm install webpack webpack-cli -D # 安装webpack依赖(4开始要安装俩个包，4之前只需要安装webpack一个)
 ```
 
-
-## 基本版 [基本版仓库](https://github.com/zyq190308/custom-webpack-vue/tree/master)
-
 webpack解析配置的时候有一个默认解析的文件，叫webpack.config.js，里面就是配置一些打包的配置。
 在项目根目录下新建一个webpack.confg.js,src目录下新建main.js文件，基本内容如下：
 ```js
@@ -310,7 +307,7 @@ export default new VueRouter({
 最后打包，发现一个Vue基本环境已经出来了。
 
 
-## 优化 [优化版仓库](https://github.com/zyq190308/custom-webpack-vue/tree/optimize)
+## 优化
 
 首先，我们不在使用npx webpack来构建了，我们用package.json里的scripts脚本来控制，如下：
 ```json
